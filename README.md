@@ -1,6 +1,18 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/chynqhqHfrSYAHVeWJ/giphy.gif?cid=6c09b952474cktvaz25mm6767lei5l7hye4txr1jr4blrrqg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100"/>
-<div></div>
+</div>
+
+<div id="badges">
+ <a href="https:www.linkedin.com/in/cr-carter">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+ <a href="[https://x.com/carte83005?t=5q4YSR1nkEJmAQNR7YXrnQ&s=09">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X Badge"/>
+ </a>
+ </div>
+ <div>
+   
+ </div>
 - 👋 Hi, I’m @crcarter91
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
