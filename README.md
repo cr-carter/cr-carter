@@ -4,11 +4,16 @@
 
 <div id="badges" align="center">
  <a href="https:www.linkedin.com/in/cr-carter">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn Badge"/>
  </a>
- <a href="[https://x.com/carte83005?t=5q4YSR1nkEJmAQNR7YXrnQ&s=09">
+  
+ <a href="https://x.com/carte83005?t=5q4YSR1nkEJmAQNR7YXrnQ&s=09">
     <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X Badge"/>
  </a>
+
+  <a href="https://profile.indeed.com/p/chasec-3l2k714">
+    <img src="https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff" alt="Indeed Badge"/>
+  </a>
  </div>
  <div>
 <h1 align="center">
@@ -22,7 +27,7 @@
 
 🖲 My career goal is to specialize in cyber security. To reach this goal, I am furthering my education by pursuing a Master's in Cybersecurity, while concurrently preparing for additional certifications such as CCSP, CASP+, and CISM.
 
-📨 You can contact me on LinkedIn and X by using the buttons above.
+📨 You can contact me on LinkedIn and X by using the buttons above, as well as view my Indeed resume.
 
 
 <!---
