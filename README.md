@@ -13,16 +13,17 @@
  <div>
 <h1 align="center">
      hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  </div>
-- 👋 Hi, I’m @crcarter91
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 
+ 👋 Hi, I’m Chase. I'm an experienced System and Network Administrator currently serving in the military.
+
+🎓 I have a Bachelor's in Cybersecurity, and I hold multiple industry certifications, such as Sec+, CySA+, Pentest+, SSCP, and ITIL.
+
+🖲 My career goal is to specialize in cyber security. To reach this goal, I am furthering my education by pursuing a Master's in Cybersecurity, while concurrently preparing for additional certifications such as CCSP, CASP+, and CISM.
+
+📨 You can contact me on LinkedIn and X by using the buttons above.
+
 
 <!---
 crcarter91/crcarter91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
