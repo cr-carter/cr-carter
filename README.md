@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn Badge"/>
  </a>
   
- <a href="https://x.com/carte83005?t=5q4YSR1nkEJmAQNR7YXrnQ&s=09">
+ <a href="https://x.com/cr_carter_">
     <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X Badge"/>
  </a>
 
