@@ -1,8 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/chynqhqHfrSYAHVeWJ/giphy.gif?cid=6c09b952474cktvaz25mm6767lei5l7hye4txr1jr4blrrqg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100"/>
-</div>
+# Hello, I'm Chase
 
-<div id="badges" align="center">
+<div id="badges" align="left">
  <a href="https:www.linkedin.com/in/cr-carter">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn Badge"/>
  </a>
@@ -16,18 +14,14 @@
   </a>
  </div>
  <div>
-<h1 align="center">
-     hey there
-</h1>
  </div>
  
- 👋 Hi, I’m Chase. I'm an experienced System and Network Administrator currently serving in the military.
+I'm an experienced System and Network Administrator currently serving in the military. I have a Bachelor's in Cybersecurity, and I hold multiple industry certifications, such as Sec+, CySA+, Pentest+, SSCP, and ITIL. My career goal is to specialize in cyber security. To reach this goal, I am furthering my education by pursuing a Master's in Cybersecurity, while concurrently preparing for additional certifications such as CCSP, CASP+, and CISM. You can contact me on LinkedIn and X by using the buttons above, as well as view my Indeed resume.
 
-🎓 I have a Bachelor's in Cybersecurity, and I hold multiple industry certifications, such as Sec+, CySA+, Pentest+, SSCP, and ITIL.
-
-🖲 My career goal is to specialize in cyber security. To reach this goal, I am furthering my education by pursuing a Master's in Cybersecurity, while concurrently preparing for additional certifications such as CCSP, CASP+, and CISM.
-
-📨 You can contact me on LinkedIn and X by using the buttons above, as well as view my Indeed resume.
+## Certifications
+<div>
+  <img src="https://images.credly.com/size/90x90/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png"
+</div>
 
 
 <!---
