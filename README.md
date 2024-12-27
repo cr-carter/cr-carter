@@ -3,6 +3,9 @@
 </h1>
 
 <div align="center">
+  <p>
+    follow/contact:
+  </p>
 <a href="https:www.linkedin.com/in/cr-carter">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" />
 </a>
@@ -17,7 +20,7 @@
 <hr>
 
 <p>
-  I'm an experienced Information Systems Supervisor currently serving in the military, previously serving as a System and Network Administrator. I have a Master's in Cybersecurity, and I hold multiple industry certifications, such as CySA+, Pentest+, CASP+ (SecurityX), SSCP, CCSP, CISSP, and ITIL. My career goal is to specialize in cyber security. To reach this goal, I am furthering working to expand my knowledge of various scripting and programming languages: Python, Powershell, and Bash. I am concurrently preparing for additional certifications such as CISM.
+  I'm an experienced Information Systems Supervisor currently serving in the military, previously serving as a System and Network Administrator. I have a Master's in Cybersecurity and I hold multiple industry certifications, such as CySA+, Pentest+, CASP+ (SecurityX), SSCP, CCSP, CISSP, and ITIL. My career goal is to specialize in developing and implementing CyberSecurity tools. To reach this goal, I am furthering working to expand my knowledge of various scripting and programming languages: Python, HTML/CSS/JavaScript, and Powershell. I am concurrently preparing for additional certifications such as CISM.
 </p>
 
 <h2>
@@ -32,15 +35,43 @@
   Languages
 </h2>
 
-<a href="https://github.com/cr-carter/100-Day-of-Code-The-Complete-Python-Pro-Bootcamp"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" width="25%" height="25%" /></a>
-
-<p>
-  I am currently working through a Python course on Udemy, "100 Days of Code: The Complete Python Pro Bootcamp" by Dr. Angela Yu. You can follow my progress in this repository: <a href="https://github.com/cr-carter/100-Day-of-Code-The-Complete-Python-Pro-Bootcamp">Python</a>
+<div>
+  Click on an image below to view some of my code in that language:
 </p>
+<p>
+<a href="https://github.com/cr-carter/100-Day-of-Code-The-Complete-Python-Pro-Bootcamp">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="80" height="80" title="Python"/>
+</a>
+<a href="https://github.com/cr-carter/100-Day-of-Code-The-Complete-Python-Pro-Bootcamp">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="80" height="80" title="HTML"/>
+</a>
+<a href="https://github.com/cr-carter/100-Day-of-Code-The-Complete-Python-Pro-Bootcamp">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" width="80" height="80" title="CSS"/>
+</a>
+  <a href="https://github.com/cr-carter/100-Day-of-Code-The-Complete-Python-Pro-Bootcamp">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" width="80" height="80" title="JavaScript"/>
+</a>
+</div>
+
+<div>
+  <a href="https://github.com/cr-carter/">
+<img src="https://github.com/PowerShell.png?size=40" width="80" height="80" title="PowerShell"/>
+</a>
+<a href="https://github.com/cr-carter/">
+<img src="https://raw.githubusercontent.com/github/explore/168190ce4594f1aee9adcfeb31d5283dbf2085cd/topics/cli/cli.png" width="80" height="80" title="CLI"/>
+</a>
+<a href="https://github.com/cr-carter/">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width="80" height="80" title="Bash"/>
+</a>
+</div>
 
 <h2>
   Certifications
 </h2>
+
+<p>
+  Click on an image below to a verifications of the certification:
+</p>
 
 <div>
   <a href="https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=98PFL3CCGBVE12GH"><img src="https://images.credly.com/size/80x80/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" /></a>
