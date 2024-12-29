@@ -6,7 +6,7 @@
   <p>
     Connect with me
   </p>
-<a href="https:www.linkedin.com/in/cr-carter">
+<a href="https://www.linkedin.com/in/cr-carter">
   <img src="https://github.com/cr-carter/cr-carter/blob/main/images/linkedin_logo.png" width="40" height="40" title="LinkedIn" />
 </a>
 <a href="https://x.com/cr_carter_">
