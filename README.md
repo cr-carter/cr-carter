@@ -7,25 +7,25 @@
     Connect with me
   </p>
 <a href="https://www.linkedin.com/in/cr-carter">
-  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/linkedin_logo.png" width="40" height="40" title="LinkedIn" />
+  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/linkedin_logo.png" width="40" height="40" title="LinkedIn"/>
 </a>
 <a href="https://x.com/cr_carter_">
-  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/x_logo.jpg" width="40" height="40" title="X/Twitter" />
+  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/x_logo.jpg" width="40" height="40" title="X/Twitter"/>
 </a>
 <a href="https://bsky.app/profile/cr-carter.bsky.social">
-  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/bluesky_logo.png" width="40" height="40" title="Bluesky" />
+  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/bluesky_logo.png" width="40" height="40" title="Bluesky"/>
 </a>
 <a href="https://www.threads.net/@cr_carter_">
-  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/threads_logo.png" width="40" height="40" title="Threads" />
+  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/threads_logo.png" width="40" height="40" title="Threads"/>
 </a>
 <a href="https://instagram.com/cr_carter_">
-  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/instagram_logo.png" width="40" height="40" title="Instagram" />
+  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/instagram_logo.png" width="40" height="40" title="Instagram"/>
 </a>
 <a href="https://medium.com/@cr-carter">
-  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/medium_logo.png" width="40" height="40" title="Medium" />
+  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/medium_logo.png" width="40" height="40" title="Medium"/>
 </a>
 <a href="https://profile.indeed.com/p/chasec-3l2k714">
-  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/indeed_logo.png" width="40" height="40" title="Indeed" />
+  <img src="https://github.com/cr-carter/cr-carter/blob/main/images/indeed_logo.png" width="40" height="40" title="Indeed"/>
 </a>
 </div>
 
