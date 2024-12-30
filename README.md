@@ -82,7 +82,7 @@
 </h2>
 
 <p align="center">
-  Click on an image below to a verifications of the certification:
+  Click on an image below to see a verification of the certification:
 </p>
 
 <div align="center">
