@@ -51,7 +51,7 @@
   Click on an image below to view some of my code in that language:
 </p>
 <p>
-<a href="https://github.com/cr-carter/100-Day-of-Code-The-Complete-Python-Pro-Bootcamp">
+<a href="https://github.com/cr-carter/Python-Practice">
   <img src="https://github.com/cr-carter/cr-carter/blob/main/images/python_logo.png" width="80" height="80" title="Python"/>
 </a>
 <a href="https://github.com/cr-carter/100-Day-of-Code-The-Complete-Python-Pro-Bootcamp">
