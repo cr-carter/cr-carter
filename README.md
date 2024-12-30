@@ -32,7 +32,7 @@
 <hr>
 
 <p>
-  I'm an experienced Information Systems Supervisor currently serving in the military, previously serving as a System and Network Administrator. I have a Master's in Cybersecurity and I hold multiple industry certifications, such as CySA+, Pentest+, CASP+ (SecurityX), SSCP, CCSP, CISSP, and ITIL. My career goal is to specialize in developing and implementing CyberSecurity tools. To reach this goal, I am furthering working to expand my knowledge of various scripting and programming languages: Python, HTML/CSS/JavaScript, and Powershell. I am concurrently preparing for additional certifications such as CISM.
+  I'm an experienced Information Systems Supervisor currently serving in the military, previously serving as a System and Network Administrator. I have a Master's in Cybersecurity and I hold multiple industry certifications, such as CySA+, Pentest+, CASP+ (SecurityX), SSCP, CCSP, CISSP, and ITIL. My career goal is to specialize in developing and implementing CyberSecurity tools. To reach this goal, I am working to expand my knowledge of various scripting and programming languages: Python, HTML/CSS/JavaScript, and Powershell. I am concurrently preparing for additional certifications such as CISM.
 </p>
 
 <h2 align="center">
