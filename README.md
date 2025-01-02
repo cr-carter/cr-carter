@@ -54,13 +54,13 @@
 <a href="https://github.com/cr-carter/Python-Practice">
   <img src="https://github.com/cr-carter/cr-carter/blob/main/images/python_logo.png" width="80" height="80" title="Python"/>
 </a>
-<a href="https://github.com/cr-carter/100-Day-of-Code-The-Complete-Python-Pro-Bootcamp">
+<a href="https://github.com/cr-carter/Web-Development-Practice">
 <img src="https://github.com/cr-carter/cr-carter/blob/main/images/html_logo.png" width="80" height="80" title="HTML"/>
 </a>
-<a href="https://github.com/cr-carter/100-Day-of-Code-The-Complete-Python-Pro-Bootcamp">
+<a href="https://github.com/cr-carter/Web-Development-Practice">
 <img src="https://github.com/cr-carter/cr-carter/blob/main/images/css_logo.png" width="80" height="80" title="CSS"/>
 </a>
-  <a href="https://github.com/cr-carter/100-Day-of-Code-The-Complete-Python-Pro-Bootcamp">
+  <a href="https://github.com/cr-carter/Web-Development-Practice">
 <img src="https://github.com/cr-carter/cr-carter/blob/main/images/javascript_logo.png" width="80" height="80" title="JavaScript"/>
 </a>
 </div>
