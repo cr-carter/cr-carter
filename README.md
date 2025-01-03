@@ -48,9 +48,9 @@
 </h2>
 
 <div align="center">
-  Click on an image below to view some of my code in that language:
-</p>
-<p>
+  <p>
+    Click on an image below to view some of my code in that language:
+  </p>
 <a href="https://github.com/cr-carter/Python-Practice">
   <img src="https://github.com/cr-carter/cr-carter/blob/main/images/python_logo.png" width="80" height="80" title="Python"/>
 </a>
