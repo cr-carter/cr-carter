@@ -32,7 +32,7 @@
 <hr>
 
 <p>
-  I'm an experienced Information Systems Supervisor currently serving in the military, previously serving as a System and Network Administrator. I have a Master's in Cybersecurity and I hold multiple industry certifications, such as CySA+, Pentest+, CASP+ (SecurityX), SSCP, CCSP, CISSP, and ITIL. My career goal is to specialize in developing and implementing CyberSecurity tools. To reach this goal, I am working to expand my knowledge of various scripting and programming languages: Python, HTML/CSS/JavaScript, and Powershell. I am concurrently preparing for additional certifications such as CISM.
+  I'm an experienced Information Systems Supervisor currently serving in the military, previously serving as a System and Network Administrator. I have a Master's in Cybersecurity and I hold multiple industry certifications, such as CySA+, Pentest+, CASP+ (SecurityX), SSCP, CCSP, CISSP, and CISM My career goal is to specialize in developing and implementing CyberSecurity tools. To reach this goal, I am working to expand my knowledge of various scripting and programming languages: Python, HTML/CSS/JavaScript, and Powershell. I am concurrently preparing for additional certifications such as CISM.
 </p>
 
 <h2 align="center">
@@ -99,6 +99,7 @@
  <a href="https://www.credly.com/badges/e8585e58-ba4b-4492-b00c-47f6659e658c/public_url"><img src="https://github.com/cr-carter/cr-carter/blob/main/images/ccsp_logo.png" /></a>
  <a href="https://www.credly.com/badges/4e195e8b-18f0-4952-9513-103f6fa34bab/public_url"><img src="https://github.com/cr-carter/cr-carter/blob/main/images/cissp_logo.png" /></a>
  <a href="https://www.peoplecert.org/for-corporations/certificate-verification-service"><img src="https://github.com/cr-carter/cr-carter/blob/main/images/itil_logo.png" /></a>
+ <a><img src="https://github.com/cr-carter/cr-carter/blob/main/images/cism_logo.png" width="80" height="80"/></a>
 </div>
 
 
